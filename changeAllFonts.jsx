@@ -1,5 +1,5 @@
 ﻿var changeAllFontsScript={
-	fontName:"ArialMT"
+	fontName:"Onest Bold"
 };
 changeAllFontsScript.go = function(){
 
